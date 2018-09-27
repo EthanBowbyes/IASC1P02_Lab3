@@ -12,6 +12,7 @@ body{background-color:red}
 	font-style: italic;
 }
 li {
+    display: inline;
     font-family:"Trebuchet", Trebuchet, sans-serif;
 	font-size: 30px; 
 }
