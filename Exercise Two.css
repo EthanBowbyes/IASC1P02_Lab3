@@ -1,0 +1,17 @@
+/*Exercise two style sheet*/
+body{background-color:red}
+#firstHeader{
+	color: Blue;
+	font-family:"Trebuchet", Trebuchet, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+.ulStyle {
+	color:green;
+    font-family:"Trebuchet", Trebuchet, sans-serif;
+	font-style: italic;
+}
+li {
+    font-family:"Trebuchet", Trebuchet, sans-serif;
+	font-size: 30px; 
+}

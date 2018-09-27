@@ -1,0 +1,12 @@
+/*Exercise one style sheet*/
+#firstHeader{
+	color: red;
+	font-family:"Trebuchet", Trebuchet, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+.greenText {
+	color:green;
+    font-family:"Trebuchet", Trebuchet, sans-serif;
+	font-style: italic;
+}
